@@ -1,0 +1,11 @@
+---
+title: "Report on Gun Murders"
+author: "Julie Byrne"
+date: "12/15/2020"
+output: html_document
+---
+
+```{r, echo=F}
+n <- nrow(mtcars)
+```
+Here `r n` cars are compared
